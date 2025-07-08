@@ -1,6 +1,6 @@
 Internship MERN task DAY 1
 
-1.even number print use of list\n
+1.even number print use of list
 2.factorial number
 3.multiplication table
 4.sum of natural number
