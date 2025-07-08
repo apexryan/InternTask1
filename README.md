@@ -1,4 +1,4 @@
-**Internship Node tasks DAY 1**
+<h1>Internship Node tasks DAY 1</h1>
 
 1. even number print use of list<br/>
 2. factorial number<br/>
